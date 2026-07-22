@@ -8,7 +8,8 @@
 - Fui Estudante de Sistemas de Telecomunicações na **UTFPR**
 
 ![](https://skillicons.dev/icons?i=html,css,js,ts,vite,react,vscode,github,java,php)
-<br>![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
 ---
 
@@ -24,13 +25,9 @@
 
 ---
 
-<p>
-  <img src="./assets/assinatura.png" alt="UTFPR" height="60">
-  &nbsp;&nbsp;&nbsp; </p>   
-
 **[Meu CV Online](https://victorhugoscarpin.github.io/CV/)**
 
-Fale comigo pelos links abaixo 👇
+Links abaixo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/scarpin-xavier/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vhsxtrabalho@gmail.com)
