@@ -14,11 +14,11 @@
 ### 🎓 Formação
 
 <p>
-  <img src="./assinatura/utfpr.png" alt="UTFPR" height="60">
+  <img src=".assets/utfpr.png" alt="UTFPR" height="60">
   &nbsp;&nbsp;&nbsp;
-  <img src="./assinatura/ceep.png" alt="CEEP Naiana Babaresco de Souza" height="60">
+  <img src=".assets/ceep.png" alt="CEEP Naiana Babaresco de Souza" height="60">
   &nbsp;&nbsp;&nbsp;
-  <img src="./assinatura/fap.png" alt="FAP" height="60">
+  <img src=".assets/fap.png" alt="FAP" height="60">
 </p>
 
 ---
