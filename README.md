@@ -1,16 +1,18 @@
-### Olá, eu sou o Victor Hugo Scarpin 👋
+### Olá, eu sou o Victor Hugo Scarpin Xavier
 
-- 💼 Já fui **Analista Salesforce Jr.**
-- 🎓 Fui Estudante de Sistemas de Telecomunicações na **UTFPR**
-- 🛠️ Técnico em Informática pela **CEEP Naiana Babaresco de Souza**
-- 📚 Atualmente estudando Análise de Sistemas na **FAP (Faculdade Adventista do Paraná)**
+- **Admin Salesforce**
+- Técnico em Informática pela **CEEP Naiana Babaresco de Souza**
+- Cursando Análise de Sistemas na **FAP**
+
+- Fui **Analista Salesforce Jr.**
+- Fui Estudante de Sistemas de Telecomunicações na **UTFPR**
 
 ![](https://skillicons.dev/icons?i=html,css,js,ts,vite,react,vscode,github,java,php)
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
 ---
 
-### 🎓 Formação
+###  Formação
 
 <p>
   <img src="./assets/utfpr.png" alt="UTFPR" height="60">
@@ -22,7 +24,11 @@
 
 ---
 
-📄 **[Meu CV Online](https://victorhugoscarpin.github.io/CV/)**
+<p>
+  <img src="./assets/assinatura.png" alt="UTFPR" height="60">
+  &nbsp;&nbsp;&nbsp; </p>   
+
+**[Meu CV Online](https://victorhugoscarpin.github.io/CV/)**
 
 Fale comigo pelos links abaixo 👇
 
