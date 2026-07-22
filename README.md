@@ -5,11 +5,7 @@
 - 🛠️ Técnico em Informática pela **CEEP Naiana Babaresco de Souza**
 - 📚 Atualmente estudando Análise de Sistemas na **FAP (Faculdade Adventista do Paraná)**
 
-![](https://skillicons.dev/icons?i=html,css,js,ts,vite,react,vscode,github,java,php)
-
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC0?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-![Pascal](https://img.shields.io/badge/Pascal-E3F171?style=for-the-badge&logo=pascal&logoColor=black)
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![](https://skillicons.dev/icons?i=html,css,js,ts,vite,react,vscode,github,java,php) ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
 ---
 
