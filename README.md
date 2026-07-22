@@ -8,7 +8,7 @@
 - Fui Estudante de Sistemas de Telecomunicações na **UTFPR**
 
 ![](https://skillicons.dev/icons?i=html,css,js,ts,vite,react,vscode,github,java,php)
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+<br>![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
 ---
 
