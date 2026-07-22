@@ -7,10 +7,22 @@
 
 ![](https://skillicons.dev/icons?i=html,css,js,ts,vite,react,vscode,github,java,php)
 
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC0?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+![Pascal](https://img.shields.io/badge/Pascal-E3F171?style=for-the-badge&logo=pascal&logoColor=black)
+
 ---
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHugoScarpin&layout=compact&theme=dark)](https://github.com/VictorHugoScarpin)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VictorHugoScarpin&show_icons=true&theme=dark)](https://github.com/VictorHugoScarpin)
+### 🎓 Formação
+
+<p>
+  <img src="https://logodownload.org/wp-content/uploads/2017/11/utfpr-logo.png" alt="UTFPR" height="60">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://www.faculdadeadventista.edu.br/wp-content/uploads/2021/03/logo-fap.png" alt="FAP" height="60">
+</p>
+
+---
+
+📄 **[Meu CV Online](https://victorhugoscarpin.github.io/CV/)**
 
 Fale comigo pelos links abaixo 👇
 
